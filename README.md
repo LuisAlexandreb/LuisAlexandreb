@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e por criar soluções para as pe
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alexandre-barbosa-b8795b271/)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](ferreirabarbosaluis17@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](<ferreirabarbosaluis17@gmail.com>)
 
 ---
 
