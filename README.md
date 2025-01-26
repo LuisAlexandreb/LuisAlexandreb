@@ -1,6 +1,6 @@
 # Olá, eu sou Luis Alexandre Barbosa! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e por criar soluções para as pessoas! Atualmente, estudo **JavaScript** e estou explorando **HTML, CSS, Python**. 🚀
+Sou um desenvolvedor apaixonado por tecnologia e por criar soluções para as pessoas! Atualmente, estudo **JavaScript** e estou explorando **HTML, CSS, Python** estou no terceiro semestre de engenharia de software.🚀
 
 ---
 
