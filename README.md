@@ -18,6 +18,3 @@ Sou um desenvolvedor apaixonado por tecnologia e por criar soluções para as pe
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alexandre-barbosa-b8795b271/)
 
----
-
-![Visitas no perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
