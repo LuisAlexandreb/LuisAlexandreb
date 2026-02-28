@@ -1,6 +1,6 @@
 # Olá, eu sou Luis Alexandre Barbosa! 👋
 
-Sou um desenvolvedor backend adoro tecnologia e resolver problemas! Atualmente, estudo **Java** e tenho conhecimento **HTML, CSS, javascript, Python** estou no quinto semestre de engenharia de software.🚀
+Sou desenvolvedor backend adoro tecnologia e resolver problemas! Atualmente, estudo **Java** e tenho conhecimento **HTML, CSS, javascript, Python** estou no quinto semestre de engenharia de software.🚀
 
 ---
 
